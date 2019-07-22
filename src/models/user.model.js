@@ -20,9 +20,9 @@ var userSchema = new mongoose.Schema({
         required: 'This field is required.'
     },
     mobile: {
-        type: Number,
+        type: String,
         required: 'This field is required.'
-    }    
+    }
 });
 
 // Custom validation for email
