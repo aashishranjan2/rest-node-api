@@ -4,6 +4,6 @@
 #### To develop a backend app using MEAN stack, below is the link. It's a good place to start with.
 https://devcenter.heroku.com/articles/mean-apps-restful-api
 
-To host backend api on heroku:
-1: Create a new app
-2: go to "Deploy" section from nav bar and follow rest of the steps
+ ### To host backend api on heroku:
+1: Create a new app on https://www.heroku.com/
+2: Go to "Deploy" section from nav bar and follow rest of the steps
